@@ -1,0 +1,21 @@
+{
+    "num_epochs": 20,
+    "seed": 2022,
+    "dim_hidden": 16,
+    "not_attack_list": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ],
+    "lr": 0.01,
+    "weight_decay": 0.0,
+    "step_size": 10,
+    "gamma": 0.1,
+    "save_dir": "./resources/epochs",
+    "data_path": "./resources/data/data.json",
+    "model_type": 1,
+    "graph_size": 300,
+    "resolution": 4.0
+}
