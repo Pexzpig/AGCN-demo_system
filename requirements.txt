@@ -1,0 +1,7 @@
+community==1.0.0b1
+networkx==3.1
+numpy==1.23.5
+PyQt5==5.15.9
+scipy==1.9.3
+tensorboardX==2.6
+torch==2.0.0
